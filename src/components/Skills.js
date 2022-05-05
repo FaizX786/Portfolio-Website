@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCss3, faHtml5, faJs, faReact } from '@fortawesome/free-brands-svg-icons'
-import { faC, faCode, faDatabase, faPhotoFilm} from '@fortawesome/free-solid-svg-icons';
+import {faCode, faDatabase, faPhotoFilm} from '@fortawesome/free-solid-svg-icons';
 export default function Skills() {
     return (
       <section id="skills">
